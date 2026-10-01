@@ -1,11 +1,5 @@
 # Python-for-Cybersecurity-Capstone-Project-Defensive-Threat-Detection-
 
-Absolutely. For GitHub, I’d keep it **short, formal, and informative** for now. You can expand it later when you find the original instructions.
-
-# Python for Cybersecurity Capstone Project – Defensive Threat Detection
-
-## Project Overview
-
 This project is a Python-based cybersecurity capstone focused on **defensive security and multi-factor authentication (MFA)**. The program demonstrates how multiple authentication methods can be used to verify a user's identity before granting access.
 
 ## Authentication Methods
